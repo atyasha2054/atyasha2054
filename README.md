@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJwaG51cWV0bWJ6dm8ybDdsNjRqeTJ3b3lkdm9tbnRvcmQ0Nm56cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Banner" width="80%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJwaG51cWV0bWJ6dm8ybDdsNjRqeTJ3b3lkdm9tbnRvcmQ0Nm56cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Banner" width="70%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm <span style="color:#f72585">Atyasha Bhattacharyya</span></h1>
@@ -14,7 +14,6 @@
 
 ### 🧠 About Me
 
-yaml
 🎓 B.Tech CSE (Data Science) @ Heritage Institute of Technology  
 🔬 Research Intern @ IIT Delhi (Tree detection, canopy segmentation)  
 🏆 Hackathon Winner | 2x Research Publication | 1x Book Chapter  
@@ -22,7 +21,7 @@ yaml
 🌟 Goal: Build scalable, real-world solutions with impact  
 
 
-<img align="right" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNrdDM2aHJtaWV6dzAzNmIzaGV1NmcxeG10dXM2OWRtZmo5cDV5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" />
+<img align="right" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNrdDM2aHJtaWV6dzAzNmIzaGV1NmcxeG10dXM2OWRtZmo5cDV5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" />
 
 ---
 
@@ -41,9 +40,9 @@ yaml
 | 🥇 Award | 📌 Event |
 |---------|----------|
 | 🏅 *Winner* | Smart Bengal Hackathon (JAWAAN) |
+| 🏆 *Winner* | KrackHack 2.0 – IIT Mandi |
 | 🥈 *1st Runner-Up* | EXCAVATE @ IIT Kharagpur |
 | 🥉 *2nd Runner-Up* | Code Relay 3.0 @ IIT Bhubaneswar |
-| 🏆 *Winner* | KrackHack 2.0 – IIT Mandi |
 | 🚀 *Top 11 Finalist* | UDGAM @ IIT Guwahati (900+ teams) |
 
 ---
@@ -58,7 +57,7 @@ yaml
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,dash,html,css,js,mysql,mongodb,linux,git,aws,powerbi,qgis" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,plotly,html,css,js,mysql,mongodb,linux,git,aws,powerbi,qgis" />
 </p>
 
 ---
@@ -66,6 +65,12 @@ yaml
 ### 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,sql,html,css,js,fastapi,flask,plotly,tensorflow,pytorch,opencv,mysql,mongodb,git,linux,aws,postman,powerbi" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Plotly-logo.png" alt="Dash" width="40" style="margin-left: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/QGIS_logo_new.svg" alt="QGIS" width="40" style="margin-left: 5px;" />
+</p>
+
+
   <img src="https://github-readme-stats.vercel.app/api?username=atyasha2054&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=atyasha2054&theme=tokyonight" height="180" />
 </p>

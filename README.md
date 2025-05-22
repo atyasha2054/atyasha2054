@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" alt="Banner" width="100%" />
+  <img src="[https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFjZmN2dmw2MDF4ZWlnbXVoc29la2g1eGVhMHJxcjIzbzh2am84ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm <span style="color:#f72585">Atyasha Bhattacharyya</span></h1>

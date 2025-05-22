@@ -58,8 +58,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,fastapi,flask,tensorflow,pytorch,opencv,mysql,mongodb,git,linux,aws,postman,powerbi" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Plotly-logo.png" alt="Dash" width="40" style="margin-left: 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/QGIS_logo_new.svg" alt="QGIS" width="40" style="margin-left: 5px;" />
 </p>
 
 ---

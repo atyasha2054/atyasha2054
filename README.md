@@ -22,7 +22,7 @@ yaml
 🌟 Goal: Build scalable, real-world solutions with impact  
 
 
-<img align="right" width="300" src="" />
+<img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNrdDM2aHJtaWV6dzAzNmIzaGV1NmcxeG10dXM2OWRtZmo5cDV5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" />
 
 ---
 

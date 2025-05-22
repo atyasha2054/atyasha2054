@@ -57,7 +57,9 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,sql,html,css,js,fastapi,flask,plotly,tensorflow,pytorch,opencv,mysql,mongodb,git,linux,aws,postman,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,fastapi,flask,tensorflow,pytorch,opencv,mysql,mongodb,git,linux,aws,postman,powerbi" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Plotly-logo.png" alt="Dash" width="40" style="margin-left: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/QGIS_logo_new.svg" alt="QGIS" width="40" style="margin-left: 5px;" />
 </p>
 
 ---
@@ -69,13 +71,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=atyasha2054&theme=tokyonight" height="180" />
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=atyasha2054&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=atyasha2054&theme=tokyonight" height="180" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atyasha2054&theme=react-dark&hide_border=true" width="90%" />
 </p>
+
 
 ---
 

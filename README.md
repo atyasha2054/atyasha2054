@@ -29,17 +29,17 @@
 
 - 🌾 *FARMEASY* – AI-driven dashboard for smart farming using satellite + IoT  
 - 🚦 *CruiseCTRL* – Traffic AI using YOLOv8 + UNet for smart cities  
-- 🪖 *JAWAAN* – Drone-based defense support with threat detection & VR  
 - 🔬 *CHEMSPARK* – ML for material classification + band gap prediction  
-- 🌍 *ALERTIFY* – Disaster intelligence via maps, audio, video & social data  
-
+- 🌍 *ALERTIFY* – Disaster intelligence via maps, audio, video & social data
+  
+//- 🪖 *JAWAAN* – Drone-based defense support with threat detection & VR
 ---
 
 ### 🏆 Highlights
 
 | 🥇 Award | 📌 Event |
 |---------|----------|
-| 🏅 *Winner* | Smart Bengal Hackathon (JAWAAN) |
+| 🏅 *Winner* | Smart Bengal Hackathon |
 | 🏆 *Winner* | KrackHack 2.0 – IIT Mandi |
 | 🥈 *1st Runner-Up* | EXCAVATE @ IIT Kharagpur |
 | 🥉 *2nd Runner-Up* | Code Relay 3.0 @ IIT Bhubaneswar |

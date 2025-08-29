@@ -31,6 +31,7 @@
 - 🚦 *CruiseCTRL* – Traffic AI using YOLOv8 + UNet for smart cities  
 - 🔬 *CHEMSPARK* – ML for material classification + band gap prediction  
 - 🌍 *ALERTIFY* – Disaster intelligence via maps, audio, video & social data
+- 🪖 *JAWAAN – Drone-based defense support with threat detection & VR*
   
 ---
 

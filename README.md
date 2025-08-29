@@ -41,6 +41,7 @@
 |---------|----------|
 | 🏅 *Winner* | Smart Bengal Hackathon |
 | 🏆 *Winner* | KrackHack 2.0 – IIT Mandi |
+| 🏅 *MLH Winner* | StatusCode 2|
 | 🥈 *1st Runner-Up* | EXCAVATE @ IIT Kharagpur |
 | 🥉 *2nd Runner-Up* | Code Relay 3.0 @ IIT Bhubaneswar |
 | 🚀 *Top 11 Finalist* | UDGAM @ IIT Guwahati (900+ teams) |
